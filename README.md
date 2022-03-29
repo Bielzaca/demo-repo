@@ -6,7 +6,6 @@ desc
 
 bla bla bla bla
 
-# Local Dev
+# local dev
 
-1. bla bla bla
-2. bla bla bla bla
+1. bla bla bla bla
